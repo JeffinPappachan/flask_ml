@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-`git clone https://github.com/santhosh4kp/flask_micro`
+Files for ML sample project 
 =======
 # flask_ml
 ML workshop sample project
